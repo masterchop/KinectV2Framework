@@ -1,0 +1,11 @@
+
+Library/
+obj/
+ProjectSettings/
+Template/
+
+*.fbx
+*.csproj
+*.sln
+*.suo
+*.meta
